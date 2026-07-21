@@ -1,17 +1,17 @@
 # Hi, I'm Manasvi Antil 👋
 
-### AI/ML Developer | Data Science Enthusiast | 2nd Year CSE Student
+### AI/ML Developer | Data Science Enthusiast | 3rd Year CSE Student
 
-I'm a Computer Science student at Maharaja Agrasen University (CGPA: 8.60) passionate about building end-to-end machine learning and NLP applications — from data preprocessing to model deployment.
+I'm a Computer Science student at Maharaja Agrasen University (CGPA: 8.60) passionate about building end-to-end AI\ML applications — from data preprocessing to model deployment.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (2024–2028)
-- 🤖 Focused on **Machine Learning**, **Deep Learning**, and **Natural Language Processing**
-- 🛠️ I build ML apps and deploy using Streamlit
-- 📊 Experienced in **EDA**, **predictive modeling**, and **data preprocessing**
+- 🤖 Focused on **AI**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing**
+- 🛠️ I build AI/ML apps and deploy using Streamlit
+- 📊 Experienced in **AI Tools**, **EDA**, **predictive modeling**, and **data preprocessing**
 - 📫 Reach me at: **manasviantil17@gmail.com**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/manasviantil)
 
