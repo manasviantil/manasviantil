@@ -2,7 +2,7 @@
 
 ### AI/ML Developer | Data Science Enthusiast | 3rd Year CSE Student
 
-I'm a Computer Science student at Maharaja Agrasen University (CGPA: 8.60) passionate about building end-to-end AI\ML applications — from data preprocessing to model deployment.
+I'm a Computer Science student at Maharaja Agrasen University (CGPA: 8.70) passionate about building end-to-end AI\ML applications — from data preprocessing to model deployment.
 
 ---
 
