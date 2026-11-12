@@ -12,7 +12,7 @@ I'm a Computer Science student at Maharaja Agrasen University (CGPA: 8.70) passi
 - 🤖 Focused on **AI**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing**
 - 🛠️ I build AI/ML apps and deploy using Streamlit
 - 📊 Experienced in **AI Tools**, **EDA**, **predictive modeling**, and **data preprocessing**
-- 📫 Reach me at: **manasviantil17@gmail.com**
+- 📫 Reach me at: **manasviantil03@gmail.com**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/manasviantil)
 
 ---
